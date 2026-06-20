@@ -1,4 +1,4 @@
-#This code is from flask
+#This code is from flask after typo
 from flask import Flask, render_template
 app = Flask(__name__)
 
